@@ -1,0 +1,2 @@
+/my-redirect  /              302
+http://mynew.netlify.com/* http://creekonwebdesign.org/:splat 301!
